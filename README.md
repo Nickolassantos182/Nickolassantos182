@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou o Nickolas</h1>
-<h3 align="center">🎓 Estudante de TI na Universidade Paulista | 💻 Desenvolvedor Web Freelancer (HTML, CSS, JavaScript) desde 2023 | 🔐 Foco em Segurança da Informação | 📦 Experiência em Logística e Expedição</h3>
+<h3 align="center">🎓 Estudante de TI na Universidade Paulista | 💻 Desenvolvedor Web Freelancer (HTML, CSS, JavaScript) desde 2023 | 🔐 Foco em desenvolvimento | 📦 Experiência em Logística e Expedição</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nickolassantos182&label=Profile%20views&color=0e75b6&style=flat" alt="nickolassantos182" /> </p>
 
